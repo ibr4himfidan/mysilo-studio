@@ -138,12 +138,13 @@ Ubuntu sunucuda Nginx HTTPS bağlantısını karşılar; uygulama yalnızca `127
 npm test
 npx tsc --noEmit
 npm run build:release
+npm run test:release
 npm audit --omit=dev
 ```
 
 Testler; yerleşim sınırlarını, ekipmanları, kurulum sırasını, JSON/GLB çıktısını, çevirileri, kullanıcı yetkilerini, kayıt çakışmalarını, müşteri/teklif saklamayı ve veritabanı yedeklerini kapsar. Önceki otomatik planlayıcının 576 senaryoluk doğrulaması da korunur. İş verisi testleri bağımsız SQLite örnekleri kullanır.
 
-GitHub Actions her push ve pull request için testleri, bağımlılık kontrolünü ve Linux üretim derlemesini çalıştırır. İş akışının sunucu SSH anahtarına veya müşteri verilerine erişimi yoktur.
+GitHub Actions her push ve pull request için testleri, bağımlılık kontrolünü ve Linux üretim derlemesini ve ayrı klasörde gerçek sunucu/giriş kontrolünü çalıştırır. İş akışının sunucu SSH anahtarına veya müşteri verilerine erişimi yoktur.
 
 ```text
 app/                    Sayfalar ve HTTP API rotaları

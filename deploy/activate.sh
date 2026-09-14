@@ -14,7 +14,10 @@ source /etc/mysilo/app.env
 set +a
 cd "$TARGET"
 runuser -u mysilo -- /usr/local/bin/node scripts/database.mjs init
-PREVIOUS=$(readlink -f /opt/mysilo/current || true)
+PREVIOUS=''
+if [[ -L /opt/mysilo/current && -d /opt/mysilo/current ]]; then
+    PREVIOUS=$(readlink -f /opt/mysilo/current)
+fi
 ln -sfn "$TARGET" /opt/mysilo/current
 systemctl restart mysilo
 for attempt in {1..20}; do
@@ -25,9 +28,12 @@ for attempt in {1..20}; do
     fi
     sleep 1
 done
-if [[ -n "$PREVIOUS" && "$PREVIOUS" != "$TARGET" ]]; then
+if [[ -n "$PREVIOUS" && "$PREVIOUS" != "$TARGET" && -f "$PREVIOUS/server.js" ]]; then
     ln -sfn "$PREVIOUS" /opt/mysilo/current
     systemctl restart mysilo
+else
+    systemctl stop mysilo
+    unlink /opt/mysilo/current
 fi
 echo 'Health check failed. Previous release restored when available.' >&2
 exit 1

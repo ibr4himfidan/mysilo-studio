@@ -16,7 +16,8 @@
     "db:init": "node scripts/database.mjs init",
     "db:backup": "node scripts/database.mjs backup",
     "db:import": "node scripts/database.mjs import",
-    "build:release": "npm run build && node scripts/package-release.mjs"
+    "build:release": "npm run build && node scripts/package-release.mjs",
+    "test:release": "node scripts/smoke-release.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

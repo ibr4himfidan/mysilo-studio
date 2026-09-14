@@ -40,6 +40,7 @@ cd mysilo-studio
 npm ci
 npm test
 npm run build:release
+npm run test:release
 tar -czf /tmp/mysilo-release.tar.gz -C .next/standalone .
 ```
 
