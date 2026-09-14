@@ -23,7 +23,7 @@ try{
   assert.equal((await fetch(url+'/api/workspace')).status,401);
   const password=(await readFile(join(temporary,'database','ilk-giris.txt'),'utf8')).split('Şifre: ')[1].split('\n')[0];
   const login=await fetch(url+'/api/auth/login',{method:'POST',headers:{origin:url,'content-type':'application/json'},body:JSON.stringify({email:'admin@mysilo.local',password})});
-  assert.equal(login.status,200,'Production login');
+  assert.equal(login.status,200,'Production login: '+(login.ok?'ok':await login.text()));
   const cookie=login.headers.get('set-cookie').split(';')[0];
   assert.equal((await fetch(url+'/api/workspace',{headers:{cookie}})).status,200);
   assert.equal((await fetch(url+'/api/admin/overview',{headers:{cookie}})).status,200);
