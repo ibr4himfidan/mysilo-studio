@@ -1,0 +1,114 @@
+[
+  {
+    "id": "flat",
+    "file": "/mysilo/flat.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-duz-tabanli-silo.png",
+    "bytes": 271592,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "economic",
+    "file": "/mysilo/economic.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-ekonomik-konik-revize-2.png",
+    "bytes": 981039,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "commercial",
+    "file": "/mysilo/commercial.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-ticari-konik-min.png",
+    "bytes": 1209428,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "industrial",
+    "file": "/mysilo/industrial.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-endustriyel-silo-01.png",
+    "bytes": 718879,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "square",
+    "file": "/mysilo/square.svg",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/svg/mysilo-kare-om-model.svg",
+    "bytes": 568036,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "feed",
+    "file": "/mysilo/feed.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-yem-silosu-2.png",
+    "bytes": 702234,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "temporary",
+    "file": "/mysilo/temporary.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/noda.png",
+    "bytes": 666943,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "elevator",
+    "file": "/mysilo/elevator.svg",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/svg/elevator.svg",
+    "bytes": 1846397,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "walkway",
+    "file": "/mysilo/walkway.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-yurume-yolu-p-type.png",
+    "bytes": 71005,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "tower",
+    "file": "/mysilo/tower.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/kule/mysilo-elevator-kulesi.png",
+    "bytes": 633363,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "intake",
+    "file": "/mysilo/intake.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-s-model-alim-bunkeri.png",
+    "bytes": 145570,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "building",
+    "file": "/mysilo/building.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-7-model.png",
+    "bytes": 385662,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "conveyor",
+    "file": "/mysilo/conveyor.svg",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/svg/Zincirli-Konveyor-Y-Model.svg",
+    "bytes": 260627,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "shiploader",
+    "file": "/mysilo/shiploader.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/svg/mysilo-mobil-bant-konveyor-2.png",
+    "bytes": 322117,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "dryer",
+    "file": "/mysilo/dryer.jpeg",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/mysilo-e-serisi-kurutma.jpeg",
+    "bytes": 592232,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  },
+  {
+    "id": "cleaner",
+    "file": "/mysilo/cleaner.png",
+    "source": "https://www.mysilo.com/upload/ckfinder/files/s4.png",
+    "bytes": 303839,
+    "permission": "User identifies mysilo.com assets as their own and authorizes project use."
+  }
+]

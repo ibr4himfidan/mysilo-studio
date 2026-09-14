@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789407769397,
+      "tag": "0000_neat_marten_broadcloak",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789409487384,
+      "tag": "0001_slippery_famine",
+      "breakpoints": true
+    }
+  ]
+}

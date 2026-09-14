@@ -1,0 +1,130 @@
+[
+  {
+    "id": "belt-k",
+    "file": "handling/belt-k.svg",
+    "source": "https://www.mysilo.com/tr/category/98/K-model",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/Mysilo-Bant-Konveyor-K-Model.svg",
+    "bytes": 536703,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "belt-v",
+    "file": "handling/belt-v.svg",
+    "source": "https://www.mysilo.com/tr/category/99/V-model",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/Bant-Konveyor-V-Model.svg",
+    "bytes": 286185,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "belt-r",
+    "file": "handling/belt-r.svg",
+    "source": "https://www.mysilo.com/tr/category/100/R-model",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/Bant-Konveyor-R-Model.svg",
+    "bytes": 599186,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "belt-u",
+    "file": "handling/belt-u.png",
+    "source": "https://www.mysilo.com/tr/category/211/U-Model",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/mysilo-bku-model.png",
+    "bytes": 705446,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "chain-f",
+    "file": "handling/chain-f.svg",
+    "source": "https://www.mysilo.com/tr/category/386/F-Serisi",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/Zincirli-Konveyor-Y-Model.svg",
+    "bytes": 260627,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "chain-s",
+    "file": "handling/chain-s.svg",
+    "source": "https://www.mysilo.com/tr/category/387/S-Serisi",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/Zincirli-Konveyor-YE-Model.svg",
+    "bytes": 350002,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "screw-u",
+    "file": "handling/screw-u.svg",
+    "source": "https://www.mysilo.com/tr/category/103/U-Helezonu",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/mysilo-u-model-helezon.svg",
+    "bytes": 163613,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "screw-tube",
+    "file": "handling/screw-tube.jpg",
+    "source": "https://www.mysilo.com/tr/category/105/tup-helezon",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/mysilo-tup-helezon.jpg",
+    "bytes": 73137,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "mobile-belt",
+    "file": "handling/mobile-belt.png",
+    "source": "https://www.mysilo.com/tr/category/376/Mobil-Bant-Konveyor",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/mysilo-mobil-bant-konveyor-2.png",
+    "bytes": 322117,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "mobile-telescopic",
+    "file": "handling/mobile-telescopic.png",
+    "source": "https://www.mysilo.com/tr/category/377/Mobil-Teleskopik-Bant-Konveyor",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/mobil-teleskobik.png",
+    "bytes": 488018,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "shiploader",
+    "file": "handling/shiploader.png",
+    "source": "https://www.mysilo.com/tr/category/434/Gemi-Yukleme-",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/mysilo-gemi-yukleme-icerik.png",
+    "bytes": 1615073,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "trolley-u",
+    "file": "handling/trolley-u.png",
+    "source": "https://www.mysilo.com/tr/category/453/U-Model",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/mysilo-arabali-bant-konveyor-u-model.png",
+    "bytes": 361139,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "tube-d",
+    "file": "handling/tube-d.png",
+    "source": "https://www.mysilo.com/tr/category/366/D-Model",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/d-model/mysilo-d-model-pictures.png",
+    "bytes": 591084,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "tube-l",
+    "file": "handling/tube-l.png",
+    "source": "https://www.mysilo.com/tr/category/368/L-Model",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/svg/mysilo-l-model-picture.png",
+    "bytes": 1005461,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "chain-c",
+    "file": "handling/chain-c.svg",
+    "source": "https://www.mysilo.com/tr/category/388/C-Serisi",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/mysilo-c-model.svg",
+    "bytes": 438324,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "trolley-r",
+    "file": "handling/trolley-r.png",
+    "source": "https://www.mysilo.com/tr/category/454/R-Model",
+    "url": "https://www.mysilo.com/upload/ckfinder/files/mysilo-arabali-bant-koveyor-r-model.png",
+    "bytes": 614387,
+    "reviewed": "2026-09-14"
+  }
+]

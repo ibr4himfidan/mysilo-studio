@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-14T15:11:24.249Z",
+  "assets": [
+    {
+      "id": "flat-bin",
+      "title": "Düz tabanlı silo",
+      "english": "Flat-bottom grain bin",
+      "category": "Depolama",
+      "description": "Uzun süreli ana stok. Silindirik gövde, konik çatı, çevresel kuşaklar, merdiven ve fan.",
+      "dimensions": "Ø 12,83 m · gövde 10,14 m",
+      "source": 1,
+      "path": "/assets/models/flat-bin.glb",
+      "bytes": 1241552,
+      "units": "meter",
+      "upAxis": "Y",
+      "actualBoundingBox": [
+        13.729999542236328,
+        14.84877637815929,
+        14.629999765157699
+      ],
+      "ownership": "Original geometry generated for this project. No third-party mesh or texture.",
+      "manufacturerCAD": false,
+      "reference": "https://www.mysilo.com/en/category/17/flat-bottom-silos"
+    },
+    {
+      "id": "hopper-bin",
+      "title": "Konik tabanlı silo",
+      "english": "Hopper-bottom silo",
+      "category": "Depolama",
+      "description": "Parti geçişleri ve boşaltma için ayaklı, konik alt gövdeli stok. Akış rejimi bu modelde hesaplanmaz.",
+      "dimensions": "Ø 8,25 m · gövde 6,76 m",
+      "source": 25,
+      "path": "/assets/models/hopper-bin.glb",
+      "bytes": 926852,
+      "units": "meter",
+      "upAxis": "Y",
+      "actualBoundingBox": [
+        9.149999618530273,
+        16.47938891257836,
+        10.049999803304672
+      ],
+      "ownership": "Original geometry generated for this project. No third-party mesh or texture.",
+      "manufacturerCAD": false,
+      "reference": "https://mysilo.com/en/category/222/silo-equipments"
+    },
+    {
+      "id": "elevator",
+      "title": "Kovalı elevatör",
+      "english": "Bucket elevator / grain leg",
+      "category": "Taşıma",
+      "description": "Tahılı dikey taşır. İki gövde, taşıyıcı kule ve tahrik başlığı; üst dağıtım hattına bağlanır.",
+      "dimensions": "3 × 3 m · yükseklik 24 m",
+      "source": 11,
+      "path": "/assets/models/elevator.glb",
+      "bytes": 63896,
+      "units": "meter",
+      "upAxis": "Y",
+      "actualBoundingBox": [
+        3,
+        24.75,
+        2.7400000005960465
+      ],
+      "ownership": "Original geometry generated for this project. No third-party mesh or texture.",
+      "manufacturerCAD": false,
+      "reference": "https://www.siloscordoba.com/wp-content/uploads/2024/09/02.Handling-Equipment-En-V1.pdf"
+    },
+    {
+      "id": "dryer",
+      "title": "Kurutma kulesi",
+      "english": "Continuous-flow grain dryer",
+      "category": "Şartlandırma",
+      "description": "Kademeli modüler gövde ve fanlar. Gösterilen ebatlar temsilidir; debiden marka/model seçimi yapılmaz.",
+      "dimensions": "7 × 9 m · yükseklik ≈ 18 m",
+      "source": 8,
+      "path": "/assets/models/dryer.glb",
+      "bytes": 42556,
+      "units": "meter",
+      "upAxis": "Y",
+      "actualBoundingBox": [
+        7,
+        17.600000023841858,
+        9.5
+      ],
+      "ownership": "Original geometry generated for this project. No third-party mesh or texture.",
+      "manufacturerCAD": false,
+      "reference": "https://www.cimbria.com/content/dam/public/grain-and-protein/cimbria/brochures/drying/continuous-flow-dryer/Continuous_Flow_Dryer_GB.pdf"
+    },
+    {
+      "id": "cleaner",
+      "title": "Ön temizleyici",
+      "english": "Grain pre-cleaner",
+      "category": "Şartlandırma",
+      "description": "Kaba yabancı madde ve hafif fraksiyon ayrımı için temsili ekipman. Aspirasyon ayrıca projelendirilir.",
+      "dimensions": "5 × 5 m rezerv alan",
+      "source": 7,
+      "path": "/assets/models/cleaner.glb",
+      "bytes": 12964,
+      "units": "meter",
+      "upAxis": "Y",
+      "actualBoundingBox": [
+        4.5,
+        6.5,
+        4.599999904632568
+      ],
+      "ownership": "Original geometry generated for this project. No third-party mesh or texture.",
+      "manufacturerCAD": false,
+      "reference": "https://www.cimbria.com/content/dam/public/grain-and-protein/cimbria/data-sheets/screen-cleaner/140/Pre_Cleaner_145_Datasheet_EN.pdf"
+    },
+    {
+      "id": "intake",
+      "title": "Alım çukuru",
+      "english": "Receiving pit",
+      "category": "Kabul",
+      "description": "Araç boşaltma ızgarası ve sundurma. Taşıt yükü, yeraltı hacmi ve drenaj hesabı içermez.",
+      "dimensions": "12 × 5 m nominal taban",
+      "source": 12,
+      "path": "/assets/models/intake.glb",
+      "bytes": 64332,
+      "units": "meter",
+      "upAxis": "Y",
+      "actualBoundingBox": [
+        13,
+        5.200000004470349,
+        6
+      ],
+      "ownership": "Original geometry generated for this project. No third-party mesh or texture.",
+      "manufacturerCAD": false,
+      "reference": "https://www.cimbria.com/en/products/conveying/intake-systems/"
+    },
+    {
+      "id": "wetbin",
+      "title": "Yaş ürün tamponu",
+      "english": "Wet holding bin",
+      "category": "Depolama",
+      "description": "Kabul ile kurutma arasındaki kısa süreli tampon. Ana depolama kapasitesine eklenmez.",
+      "dimensions": "Ø 6 m · gövde 5 m",
+      "source": 8,
+      "path": "/assets/models/wetbin.glb",
+      "bytes": 883896,
+      "units": "meter",
+      "upAxis": "Y",
+      "actualBoundingBox": [
+        6.900000095367432,
+        12.999536178527565,
+        7.800000041723251
+      ],
+      "ownership": "Original geometry generated for this project. No third-party mesh or texture.",
+      "manufacturerCAD": false,
+      "reference": "https://www.cimbria.com/content/dam/public/grain-and-protein/cimbria/brochures/drying/continuous-flow-dryer/Continuous_Flow_Dryer_GB.pdf"
+    },
+    {
+      "id": "office",
+      "title": "Kontrol binası",
+      "english": "Control room",
+      "category": "Yardımcı",
+      "description": "Otomasyon ve operasyon için temsili hacim. Laboratuvar ve personel yerleşimi sonraki tasarım aşamasıdır.",
+      "dimensions": "9 × 6 m · yükseklik 3,5 m",
+      "source": 15,
+      "path": "/assets/models/office.glb",
+      "bytes": 7668,
+      "units": "meter",
+      "upAxis": "Y",
+      "actualBoundingBox": [
+        9.5,
+        3.6500000059604645,
+        6.5
+      ],
+      "ownership": "Original geometry generated for this project. No third-party mesh or texture.",
+      "manufacturerCAD": false,
+      "reference": "https://mysilo.com/en/page/After-Sales-Service"
+    }
+  ]
+}
